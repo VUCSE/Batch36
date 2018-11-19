@@ -13,6 +13,12 @@ public:
     }
 
 };
+lic:
+    void show()
+    {
+        cin>>a>>b>>c;
+        cout<<a<<b<<c;
+    }
 int main()
 {
      A ob;
