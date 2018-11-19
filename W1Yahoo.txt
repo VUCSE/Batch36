@@ -1,1 +1,13 @@
 Hello world
+
+You wouldn't need anything as elaborate as a switcher for this.  A simple
+multiple-computer/one-monitor switch would do the job.  You can buy
+mechanical switches quite cheaply, but I wouldn't.  They don't work that
+well.
+
+But a KVM (Keyboard/Video/Mouse) switch from a company like TrippLite would
+be fine.  You don't have to use the keyboard/mouse portion if you don't want
+to.  Be sure to buy the best cables you can get to hook this up with.  Cheap
+cables --> Bad Image.  TrippLite sells very nice cable sets to go along with
+this switch.  I think a 6 footer (video/mouse/keyboard) runs about 13 bucks.
+Well worth it!
